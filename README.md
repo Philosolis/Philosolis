@@ -1,0 +1,5 @@
+- Hi, I’m @Philosolis
+- I’m interested in writing and coding.
+- I’m currently learning computer science and how to live.
+- I’m looking to collaborate on writing. Yet someone said writing is a lonely work. But I would like to just share my works and I welcome your ideas. I'm planning a public repo of my works. Maybe under CC0.
+- How to reach me: wangchh4@shanghaitech.edu.cn
