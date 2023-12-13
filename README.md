@@ -1,5 +1,5 @@
 - Hi, I’m @Philosolis
-- I’m interested in writing **in Chinese** (I'm a Chinese with poor English writing skill and seldomly writing in English). And it's weird I wrote this in English. Ah I don't know why but I guess you can read this.
+- I’m interested in writing **in Chinese** (My English is poor, man)
 - I’m currently learning computer science and how to live.
-- I’m looking to collaborate on writing. Yet someone said writing is a lonely work. But I would like to just share my works and I welcome your ideas. I'm planning a public repo of my works. Maybe under CC0.
+- I’m looking to collaborate on writing, yet someone said writing is a lonely work. But I would like to just share my works and I welcome your ideas. I'm planning a public repo of my works. Maybe under CC0.
 - How to reach me: wangchh4@shanghaitech.edu.cn
