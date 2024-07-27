@@ -1,5 +1,3 @@
 - Hi, I’m @Philosolis
-- I’m interested in writing **in Chinese** (My English is poor, man)
-- I’m currently learning computer science and how to live.
-- I’m looking to collaborate on writing, yet someone said writing is a lonely work. But I would like to just share my works and I welcome your ideas. I'm planning a public repo of my works. Maybe under CC0.
+- I’m currently learning computer science, writing and how to live.
 - How to reach me: Ilkasa@163.com
