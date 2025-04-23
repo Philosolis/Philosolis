@@ -1,3 +1,1 @@
 - Hi, I’m @Philosolis
-- I’m currently learning computer science, writing and how to live.
-- How to reach me: Ilkasa@163.com
